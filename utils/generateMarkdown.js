@@ -34,7 +34,7 @@ ${data.contributing}
 ## Tests
 ${data.test}
 ## Questions
-${data.questions}
+You can contact me at ${data.email} or you can check out my [GitHub](https://github.com/${data.github})!
 `;
 }
 
