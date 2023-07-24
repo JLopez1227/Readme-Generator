@@ -10,6 +10,11 @@ const questions = [
         message: 'What is the title of your README?',
         name: 'title'
     },
+    {
+        type: 'input',
+        message: 'Description of your README',
+        name: 'description'
+    }
 ];
 
 // TODO: Create a function to write README file
