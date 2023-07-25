@@ -60,10 +60,8 @@ function writeToFile(fileName, data) {}
 // TODO: Create a function to initialize app
 function init() {
     inquirer.prompt(questions).then( function (answers){
-        console.log(answers)
         var markDown = generateMarkdown(answers)
-        console.log(markDown)
-        fs.writeFileSync('README2.md', markDown)
+        fs.writeFileSync('genREADME.md', markDown)
     })
 
 }

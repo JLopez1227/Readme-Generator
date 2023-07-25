@@ -1,6 +1,6 @@
-# Test 3
+# GenREADME
 ## Description
-test 3
+Readme Generator Walkthrough Video
 ## Table of Contents
 - [Description](#description)
 - [Installation](#installation)
@@ -10,14 +10,14 @@ test 3
 - [Tests](#tests)
 - [Questions](#questions)
 ## Installation 
-npm i
+You install using npm i in your terminal.
 ## Usage
-node index.js
+After you run npm i, you run node index.js. Then you're presented with a list of questions to generate your README.
 ## License
 none
 ## Contributing 
 undefined
 ## Tests
-No
+No tests for this project.
 ## Questions
 You can contact me at josuenmilopez27@gmail.com or you can check out my [GitHub](https://github.com/JLopez1227)!
